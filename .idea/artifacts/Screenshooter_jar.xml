@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Screenshooter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Screenshooter_jar</output-path>
+    <root id="archive" name="Screenshooter.jar">
+      <element id="module-output" name="Screenshooter" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jnativehook-2.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
