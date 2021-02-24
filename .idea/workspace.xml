@@ -2,15 +2,31 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Screenshoter:jar" />
+      <artifact name="Screenshooter:jar" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a3d2f25-58e3-4668-a7c1-a172408e777e" name="Default Changelist" comment="" />
+    <list default="true" id="5a3d2f25-58e3-4668-a7c1-a172408e777e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Screenshooter_jar/Screenshooter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Screenshooter_jar/Screenshooter.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1miNdKrk1hDV1uovaDcXHsOYzAl" />
   <component name="ProjectViewState">
@@ -19,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15039062" />
@@ -51,6 +68,18 @@
       <updated>1609972539918</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1609974858753">
@@ -89,13 +118,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1080.0.1080.1878@0.0.1920.1040" timestamp="1609975077154" />
-    <state x="668" y="95" width="583" height="849" key="find.popup" timestamp="1609975094633">
+    <state x="668" y="95" width="583" height="849" key="find.popup" timestamp="1609975117494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="95" width="583" height="849" key="find.popup/0.0.1920.1040/-1080.0.1080.1878@0.0.1920.1040" timestamp="1609975094633" />
-    <state x="342" y="95" key="new project wizard" timestamp="1609972603079">
+    <state x="668" y="95" width="583" height="849" key="find.popup/0.0.1920.1040/-1080.0.1080.1878@0.0.1920.1040" timestamp="1609975117494" />
+    <state x="342" y="95" key="new project wizard" timestamp="1610976589554">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="95" key="new project wizard/0.0.1920.1040/-1080.0.1080.1878@0.0.1920.1040" timestamp="1609972603079" />
+    <state x="342" y="95" key="new project wizard/0.0.1920.1040/-1080.0.1080.1878@0.0.1920.1040" timestamp="1610976589553" />
   </component>
 </project>
